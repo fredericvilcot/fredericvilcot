@@ -16,12 +16,10 @@ I am Frédéric Vilcot, front-end developer by passion and lover of software cra
 Regardless of the language or the framework, software development is in my eyes an art that is often too neglected!   
 
 I strive to put into practice the techniques of **clean code, clean architecture (hexagonal), TDD, BDD, EDD** on a daily basis and to remain constantly attentive to new technologies.  
-
-Working in the world of Web3, I have the great opportunity to be part of the [ØKP4](https://okp4.network) adventure and thus build the interfaces of the future 🚀  
   
 ## Rapidfire  
 
--  👨‍💻 I’m currently Lead Front-End Engineer @[OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))  
+-  👨‍💻 I’m currently a Senior Front-End Engineer @OVHcloud 
   
 
 - 🐈 At home, I do pair programming with my cat  
