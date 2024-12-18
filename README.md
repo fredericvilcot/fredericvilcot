@@ -19,7 +19,7 @@ I strive to put into practice the techniques of **clean code, clean architecture
   
 ## Rapidfire  
 
--  👨‍💻 I’m currently a Senior Front-End Engineer @OVHcloud 
+-  👨‍💻 I’m currently Technical Leader in software development @OVHcloud 
   
 
 - 🐈 At home, I do pair programming with my cat  
